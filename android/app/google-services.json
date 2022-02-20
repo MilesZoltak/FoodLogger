@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095457642552",
+    "project_id": "logger-5ca91",
+    "storage_bucket": "logger-5ca91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095457642552:android:7b2db54e09822ab7616ecd",
+        "android_client_info": {
+          "package_name": "com.mileszoltak.logger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095457642552-vqgjsvcj82t2shnci4osef91r727j2i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB51_HryP2NHSMfd1PCP4aGnlsSNP2QpBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095457642552-vqgjsvcj82t2shnci4osef91r727j2i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
